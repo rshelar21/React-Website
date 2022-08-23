@@ -33,8 +33,8 @@ const Main = styled.div`
 color: #fff;
 /* background: #f9f9f9; */
 background: #010606;
-height: 560px;
-/* height: 100%; */
+height: 860px;
+height: 100%;
 width: 100vw;
 /* width: 100vw; */
 padding: 100px 20px;

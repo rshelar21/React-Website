@@ -42,7 +42,7 @@ const Home = () => {
     </Container>
 
     <Info/>
-    {/* <Info2/>   */}
+    <Info2/>  
     </>
   )
 }
